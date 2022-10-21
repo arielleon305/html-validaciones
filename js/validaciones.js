@@ -42,15 +42,15 @@ const mensajesDeError = {
     },
     direccion: {
         valueMissing: "Este campo no puede estar vacío",
-        patternMismatch: "El campo de Ciudad debe contener al menos 10 caracteres y máximo 40."
+        patternMismatch: "El campo de Ciudad debe contener entre 10 y 40 caracteres."
     },
     ciudad: {
         valueMissing: "Este campo no puede estar vacío",
-        patternMismatch: "El campo de Ciudad debe contener al menos 10 caracteres y máximo 40."
+        patternMismatch: "El campo de Ciudad debe contener entre 4 y 30 caracteres.."
     },
     provincia: {
         valueMissing: "Este campo no puede estar vacío",
-        patternMismatch: "El campo de Ciudad debe contener al menos 10 caracteres y máximo 40."
+        patternMismatch: "El campo de Ciudad debe contener entre 4 y 30 caracteres."
     },
 };
 
